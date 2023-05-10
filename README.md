@@ -32,4 +32,6 @@ Te code is contained in the folder: "Absenteeism_business_case" and is divided i
 * Absenteeism_predictions.csv - Data from predictions made using the model.  
 * Absenteeism_preprocess.csv - Data created from the cleaning process in the first step.  
 * model - pickle file with Logistic Regression model developed.  
-* scaler - pickle file with custom scaler function used in model development.
+* scaler - pickle file with custom scaler function used in model development.  
+## Mental Health Prediction Using Machine Learning  
+This is a work in progress that tries to classify someone needing treatment for mental health reasons. Different models are used like Logistic Regression, Lasso, Ridge, Elastic Net, Random Forests and Decision Trees.  
