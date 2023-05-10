@@ -35,3 +35,7 @@ Te code is contained in the folder: "Absenteeism_business_case" and is divided i
 * scaler - pickle file with custom scaler function used in model development.  
 ## Mental Health Prediction Using Machine Learning  
 This is a work in progress that tries to classify someone needing treatment for mental health reasons. Different models are used like Logistic Regression, Lasso, Ridge, Elastic Net, Random Forests and Decision Trees.  
+The files contained are:  
+* Mental Health Prediction Using Machine Learning.ipynb - Where all the data loading, cleaning, and modeling takes place.  
+* survey.csv - Raw data.  
+* survey_clean.csv - Clean data used for training the models.  
